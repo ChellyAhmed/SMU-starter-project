@@ -17,7 +17,7 @@ Hero
     &__left-cell{
         display: flex;
         flex-direction: column;
-        justify-content: center
+        justify-content: center;
         #{$hero}__title,
         #{$hero}__sub{
             text-align: center;
